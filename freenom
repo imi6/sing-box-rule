@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+          "v2ex.com",
+          "hostloc.com",
+          "cloudflare.com",
+          "cloudflareinsights.com",
+          "coze.com",
+          "freenom.com",
+          "tubitv.com",
+          "tubi.tv"
+      ]
+    }
+  ]
+}
